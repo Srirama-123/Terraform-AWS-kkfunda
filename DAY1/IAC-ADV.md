@@ -1,5 +1,3 @@
-
-````markdown
 # Infrastructure as Code (IaC) and Its Advantages
 
 ---

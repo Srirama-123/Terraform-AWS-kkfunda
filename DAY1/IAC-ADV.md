@@ -24,7 +24,7 @@ Apply to Provision Infra (Terraform Apply)
 Cloud Infrastructure Ready (AWS, Azure, GCP)
 ````
 
-![IaC Flow Diagram and Benefits](./iac-flow-diagram.png) <!-- Replace with actual path -->
+![IaC Flow Diagram and Benefits](../Diagrams/iac-flow-diagram.png) <!-- Replace with actual path -->
 
 ---
 

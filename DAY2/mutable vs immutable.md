@@ -59,7 +59,7 @@ resource "aws_launch_template" "app" {
 
 ## 🖼️ Diagram: Mutable vs Immutable
 
-![Mutable vs Immutable Infrastructure](../Diagrams/mutable-vs-immutable.png) <!-- Replace with your actual image path -->
+![Mutable vs Immutable Infrastructure](../Diagrams/mutable-immutable.jpg) <!-- Replace with your actual image path -->
 
 This image shows the difference clearly:
 

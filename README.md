@@ -1,4 +1,4 @@
-# KK DevOps Batch – Main Topics Overview
+# KK TERRAFORM Batch – Main Topics Overview
 
 ## DAY 1
 ---

@@ -1,6 +1,6 @@
 # 🐳 Docker Architecture - Explained with Diagram
 
-![Docker Architecture](path/to/your/image.png) <!-- Replace with your actual image path -->
+![Docker Architecture](../Diagrams/docker-arch.png) <!-- Replace with your actual image path -->
 
 ---
 

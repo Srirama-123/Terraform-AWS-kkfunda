@@ -12,3 +12,4 @@
 ---
 
 - ✅ Mutable vs Immutable Infrastructure (Terraform)
+- ✅ Terraform Architecture

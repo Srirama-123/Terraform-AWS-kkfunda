@@ -4,6 +4,9 @@ Terraform is an open-source Infrastructure as Code (IaC) tool developed by Hashi
 
 ---
 
+### 🖼️ Terraform Architecture Diagram
+![Terraform Architecture](../Diagrams/terraform-architecture.png)
+
 ## 🧱 Core Components of Terraform Architecture
 
 ### 1. Terraform Core

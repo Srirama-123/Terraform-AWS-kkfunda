@@ -111,19 +111,6 @@ terraform destroy
 
 ---
 
-## 💡 Bonus Tips for Students
 
-* Always run `terraform plan` before `apply`.
-* Use S3 backend + DynamoDB for team environments.
-* Maintain a clean file structure: `main.tf`, `variables.tf`, `outputs.tf`, `backend.tf`
-
----
-
-> Diagram source: Provided by instructor
-> Prepared for: **KK Funda DevOps AWS Terraform Training**
-
-```
-
----
 
 

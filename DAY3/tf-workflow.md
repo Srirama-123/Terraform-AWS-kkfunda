@@ -1,7 +1,7 @@
 
 # 🛠️ Terraform Workflow – In-Depth Explanation
 
-![Terraform Workflow](./Diagrams/tf-workflow.png)
+![Terraform Workflow](../Diagrams/tf-workflow.png)
 
 ---
 

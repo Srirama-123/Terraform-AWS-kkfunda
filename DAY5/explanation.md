@@ -1,8 +1,4 @@
-Here is your complete explanation in `.md` format, based on the local file Terraform script you provided — ready to upload to GitHub or present to your students:
 
----
-
-````md
 # 📘 Terraform – Local File Resource Example with Full Workflow
 
 This example demonstrates how to use **Terraform's local provider** to manage a simple file (`test.txt`) on your local system.

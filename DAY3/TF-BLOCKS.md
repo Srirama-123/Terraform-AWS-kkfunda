@@ -71,7 +71,7 @@ resource "aws_instance" "web" {
 
 ![Alt text](https://github.com/Srirama-123/Terraform-AWS-kkfunda/blob/main/Diagrams/Screenshot%202025-06-03%20164847.png?raw=true))
 
-if you want to mention particular  Availability zone you can do  like that image 
+# if you want to mention particular  Availability zone you can do  like that image 
 
 
 

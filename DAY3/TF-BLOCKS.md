@@ -69,7 +69,7 @@ resource "aws_instance" "web" {
 }
 ```
 
-https://github.com/Srirama-123/Terraform-AWS-kkfunda/blob/0d27e1c212bfbfb39ef3a66e24be74c94687ee92/Diagrams/Screenshot%202025-06-03%20164847.png
+![Alt text](Diagrams/Screenshot 2025-06-03 164847.png)
 
 
 

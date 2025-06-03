@@ -64,7 +64,7 @@ resource "aws_instance" "web" {
   instance_type = var.instance_type
 
   tags = {
-    Name = "KK-Web-Server"          "" Here tags  means you have to write instance name /server name /vm name""
+    Name = "KK-Web-Server"          #Here tags  means you have to write instance name /server name /vm name
   }
 }
 ```

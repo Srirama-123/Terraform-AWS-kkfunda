@@ -21,7 +21,8 @@ terraform init
 * Downloads required providers (e.g., AWS).
 * Initializes backend (e.g., S3 + DynamoDB).
 * Sets up modules if any.
-
+* It downloads all required dependencies & plugins
+  
 ### 🧠 Real-Time Tip:
 
 * Creates `.terraform/` and `.terraform.lock.hcl`
